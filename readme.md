@@ -2,6 +2,9 @@ Solution to Programming Assignment II
 
 <b> Hotel Booking Problem </b>
 
+How to run this code :
+<br> 1. on command prompt ruby filename.rb
+
 Assumptions :
 <br>
 1. Enter dates in specified format
