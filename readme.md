@@ -14,7 +14,7 @@ Assumptions :
 
 <br>
 <br>
-Solitoins aims for : <br>
+Solitoin aims for : <br>
 1. Optimal retireval for most common operatins <br>
 	- Availablity retrieval <br>
 	- Booking<br> 
