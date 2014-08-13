@@ -14,8 +14,6 @@ Solitoins aims for : <br>
 1. Optimal retireval for most common operatins <br>
 	- Availablity retrieval <br>
 	- Booking<br> 
-	<br>
-
 2. In memory storage of data.
 
 
